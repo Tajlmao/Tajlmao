@@ -1,4 +1,3 @@
-<h1 align="center">⚡ Tajveer Singh Randhawa ⚡</h1>
 
 <p align="center">
   <i>AI Systems • Backend • Automation • Builder Mindset</i>
