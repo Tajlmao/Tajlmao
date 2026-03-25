@@ -15,7 +15,6 @@
 
 ---
 
-# 🌌 Orbital Blueprint // Mission Control
 
 ```txt
 SYSTEM STATUS   : ACTIVE
