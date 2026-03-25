@@ -71,11 +71,11 @@ I experiment, break things, rebuild them, optimize them, and push them further.
 
 | Mission              | Description                                         | Status      |
 | -------------------- | --------------------------------------------------- | ----------- |
-| 🌌 Satellite Tracker | Full-stack + microservice real-time tracking system | In Progress |
-| 📧 ClawdMail AI      | Gmail-style AI-powered email client                 | In Progress |
-| 🤖 ClawdBot          | Email automation workflow system                    | In Progress |
+| 🌌 Satellite Tracker | Full-stack + microservice real-time tracking system | Built       |
+| 📧 ClawdMail AI      | Gmail-style AI-powered email client                 | Built       |
+| 🤖 ClawdBot          | Email automation workflow system                    | Built       |
 | ☀️ Solar Tracker     | Arduino solar tracker with math-based optimization  | Built       |
-| 🚛 DispatchOS        | Logistics + AI-assisted dispatch system             | Concept     |
+| 🚛 DispatchOS        | Logistics + AI-assisted dispatch system             | Built       |
 | 🤖 OpenClaw Setup    | Local + VPS AI workflow optimization                | Active      |
 
 > ⚡ Repositories will be published soon with production-level structure.
