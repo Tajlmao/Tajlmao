@@ -1,38 +1,154 @@
-# Hi 👋, I'm Tajveer Singh Randhawa
+<h1 align="center">⚡ Tajveer Singh Randhawa ⚡</h1>
 
-### Student Developer exploring AI & system design
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tajlmao&label=Profile views&color=0e75b6&style=flat" alt="Tajlmao" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tajlmao" alt="Tajlmao" /></a> </p>
-
-- 🔭 I'm currently working on **AI-powered automation tools and a satellite tracking system**
-
-- 🌱 I'm currently learning **System design, scalable backend architectures, and AI integrations**
-
-- 👯 I'm looking to collaborate on **Automation tools, open-source platforms, and full stack apps**
-
-- 🤝 I'm looking for help with **Advanced system design and distributed architectures**
-
-- 💬 Ask me about **Full stack development, automation workflows, APIs, and performance optimization**
-
-- 📫 How to reach me **taj.tsx@gmail.com**
-
-- ⚡ Fun fact **I automate things so I don’t have to do them twice**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Tajlmao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Tajlmao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tajveer-singh-randhawa-56079a371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tajveer-singh-randhawa-56079a371" height="30" width="40" /></a>
-<a href="https://instagram.com/tajxd_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tajxd_" height="30" width="40" /></a>
+<p align="center">
+  <i>AI Systems • Backend • Automation • Builder Mindset</i>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Real-World+Systems;AI+%2B+Backend+Explorer;Optimization+Mindset;Learning+by+Building+%26+Breaking;Mission+Control%3A+Online" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tajlmao&show_icons=true&locale=en&layout=compact" alt="Tajlmao" /></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ROLE-Builder-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20Backend-8B5CF6?style=for-the-badge" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tajlmao&show_icons=true&locale=en" alt="Tajlmao" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tajlmao&" alt="Tajlmao" /></p>
+# 🌌 Orbital Blueprint // Mission Control
 
+```txt
+SYSTEM STATUS   : ACTIVE
+CORE IDENTITY   : BUILDER
+PRIMARY FOCUS   : AI SYSTEMS + BACKEND + AUTOMATION
+CURRENT MODE    : LEARNING, TESTING, SHIPPING
+SIGNAL LEVEL    : HIGH ⚡
+```
+
+---
+
+## ⚡ About Me
+
+I’m Taj — a highly curious and execution-focused builder who loves creating real-world systems using AI, backend tech, automation, and hardware.
+
+I don’t just learn tech.
+I experiment, break things, rebuild them, optimize them, and push them further.
+
+* 🧠 Strong interest in AI systems, backend architecture, and automation
+* ⚙️ Deep understanding of system behavior, Windows internals, and performance
+* 🛠️ Builds real-world projects instead of just tutorials
+* 🚀 Generates ideas fast and executes them
+* 🧪 Has explored many more technical systems than can be fully documented
+
+---
+
+## 🏷️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,linux,aws,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenClaw-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Optimization-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🤖 AI & System Thinking
+
+* Structured prompt engineering for long-context workflows
+* AI-assisted coding, debugging, and system design
+* OpenClaw + local AI system experimentation
+* Model optimization (efficiency vs accuracy switching)
+* Resource-aware AI workflows on limited hardware
+* Uses AI as a **tool for acceleration, not dependency**
+
+---
+
+## 🚀 Active Missions
+
+| Mission              | Description                                         | Status      |
+| -------------------- | --------------------------------------------------- | ----------- |
+| 🌌 Satellite Tracker | Full-stack + microservice real-time tracking system | In Progress |
+| 📧 ClawdMail AI      | Gmail-style AI-powered email client                 | In Progress |
+| 🤖 ClawdBot          | Email automation workflow system                    | In Progress |
+| ☀️ Solar Tracker     | Arduino solar tracker with math-based optimization  | Built       |
+| 🚛 DispatchOS        | Logistics + AI-assisted dispatch system             | Concept     |
+| 🤖 OpenClaw Setup    | Local + VPS AI workflow optimization                | Active      |
+
+> ⚡ Repositories will be published soon with production-level structure.
+
+---
+
+## 📊 System Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tajlmao&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tajlmao&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tajlmao&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tajlmao/Tajlmao/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🧠 Core Strengths
+
+* ⚡ Optimizes systems instead of just using them
+* 🧩 Understands internal working of technology deeply
+* 🛠️ Builds real systems, not just tutorial projects
+* 🤖 Uses AI efficiently with control and intent
+* 💡 Generates ideas quickly and executes fast
+* 🔍 Broad hands-on exposure to Windows, tools, and technical workflows
+
+---
+
+## ☀️ Highlight Project: Solar Tracker
+
+Built an Arduino-based solar tracking system that dynamically adjusts panel position for optimal sunlight exposure.
+
+### Key Concepts:
+
+* Sensor-based light detection
+* Arduino control logic
+* Motor-based movement system
+* Mathematical / trigonometric angle calculation
+* Real-world efficiency optimization
+
+---
+
+## 📈 Current Focus
+
+* Backend architecture (deep understanding)
+* AI systems + local model workflows
+* Scalable system design
+* Publishing clean project repositories
+
+---
+
+## 🎯 Goal
+
+> Build powerful real-world systems that combine
+> **AI + backend + automation + engineering thinking**
+
+---
+
+## ⚡ Final Signal
+
+```txt
+Not here to consume technology.
+Here to understand it, optimize it, and build with it.
+```
